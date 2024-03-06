@@ -1,0 +1,34 @@
+body {
+	cursor: pointer;
+	border: none;
+	display: flex;
+    flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: rgb(212, 194, 194);
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+
+img{
+    width: 20%;
+	margin-bottom: 10px;
+	border-radius: 15px;
+}
+
+button{
+    background-color:rgb(185, 64, 64);
+    width: 20%;
+	margin-bottom: 10px;
+	border-radius: 15px;
+}
+
+input{
+    background-color:rgb(209, 225, 228);
+    width: 20%;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	text-align: center;
+}
